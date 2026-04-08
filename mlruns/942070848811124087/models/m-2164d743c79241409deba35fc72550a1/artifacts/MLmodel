@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-2164d743c79241409deba35fc72550a1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-2164d743c79241409deba35fc72550a1
+model_size_bytes: 1266
+model_uuid: m-2164d743c79241409deba35fc72550a1
+prompts: null
+run_id: 8bf56173812e4142806f5a9be7de6f96
+utc_time_created: '2026-03-26 11:54:09.368173'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-20883dba10f343ffb0cac35f2d21a1bb/artifacts
+creation_timestamp: 1774526552834
+experiment_id: '942070848811124087'
+last_updated_timestamp: 1774526555663
+model_id: m-20883dba10f343ffb0cac35f2d21a1bb
+model_type: null
+name: RandomForest_Optimized
+source_run_id: 7db62a63baf741758e795adc1699416b
+status: 2
+status_message: null

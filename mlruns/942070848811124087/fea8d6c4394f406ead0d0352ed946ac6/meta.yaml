@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/fea8d6c4394f406ead0d0352ed946ac6/artifacts
+end_time: 1774526572533
+entry_point_name: ''
+experiment_id: '942070848811124087'
+lifecycle_stage: active
+run_id: fea8d6c4394f406ead0d0352ed946ac6
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774526569229
+status: 3
+tags: []
+user_id: karina

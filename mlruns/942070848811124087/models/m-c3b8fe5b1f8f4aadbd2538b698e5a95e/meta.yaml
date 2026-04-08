@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-c3b8fe5b1f8f4aadbd2538b698e5a95e/artifacts
+creation_timestamp: 1774526560800
+experiment_id: '942070848811124087'
+last_updated_timestamp: 1774526563206
+model_id: m-c3b8fe5b1f8f4aadbd2538b698e5a95e
+model_type: null
+name: XGBoost_Optimized
+source_run_id: 0a0f15dc50cc4918bcf6622be49c72dc
+status: 2
+status_message: null

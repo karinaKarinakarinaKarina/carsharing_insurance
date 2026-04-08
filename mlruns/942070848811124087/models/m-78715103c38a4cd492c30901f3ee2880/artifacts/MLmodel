@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-78715103c38a4cd492c30901f3ee2880/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.10
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.9.12
+mlflow_version: 3.1.4
+model_id: m-78715103c38a4cd492c30901f3ee2880
+model_size_bytes: 121088
+model_uuid: m-78715103c38a4cd492c30901f3ee2880
+prompts: null
+run_id: 1637ab35acb540c8af50e7b7d6e4f3ea
+utc_time_created: '2026-03-26 11:55:58.915086'

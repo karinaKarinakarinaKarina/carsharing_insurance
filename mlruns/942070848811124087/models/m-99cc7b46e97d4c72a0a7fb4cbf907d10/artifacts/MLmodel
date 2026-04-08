@@ -1,0 +1,21 @@
+artifact_path: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-99cc7b46e97d4c72a0a7fb4cbf907d10/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.9.12
+mlflow_version: 3.1.4
+model_id: m-99cc7b46e97d4c72a0a7fb4cbf907d10
+model_size_bytes: 333151
+model_uuid: m-99cc7b46e97d4c72a0a7fb4cbf907d10
+prompts: null
+run_id: 2c6699f736b247a2a1269f59153746d5
+utc_time_created: '2026-03-26 11:56:04.084642'

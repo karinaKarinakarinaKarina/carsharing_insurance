@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-dd663403169043c2a97b51a70681fbf3/artifacts
+creation_timestamp: 1774526569650
+experiment_id: '942070848811124087'
+last_updated_timestamp: 1774526572520
+model_id: m-dd663403169043c2a97b51a70681fbf3
+model_type: null
+name: LightGBM
+source_run_id: fea8d6c4394f406ead0d0352ed946ac6
+status: 2
+status_message: null

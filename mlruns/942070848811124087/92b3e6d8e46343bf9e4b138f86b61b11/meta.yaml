@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/92b3e6d8e46343bf9e4b138f86b61b11/artifacts
+end_time: 1774527605089
+entry_point_name: ''
+experiment_id: '942070848811124087'
+lifecycle_stage: active
+run_id: 92b3e6d8e46343bf9e4b138f86b61b11
+run_name: LogisticRegression_Calibrated
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774527602278
+status: 3
+tags: []
+user_id: karina

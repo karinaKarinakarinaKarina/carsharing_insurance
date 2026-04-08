@@ -1,0 +1,85 @@
+INFO 2026-03-29 13:22:18,315 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:22:18,316 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:22:48,284 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:22:48,284 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:24:26,916 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:24:26,917 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:30:55,426 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:30:55,427 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:32:16,313 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:32:16,314 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:33:11,868 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:33:11,868 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:33:58,240 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:33:58,240 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:34:49,530 autoreload Watching for file changes with StatReloader
+INFO 2026-03-29 13:34:50,977 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:34:50,977 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 13:35:40,909 middleware Request started: GET /api/health/ from 127.0.0.1
+INFO 2026-03-29 13:35:40,911 middleware Request completed: GET /api/health/ - 200
+INFO 2026-03-29 13:35:40,912 middleware GET /api/health/ - Status: 200 - Duration: 0.003s
+INFO 2026-03-29 13:35:42,352 middleware Request started: GET /favicon.ico from 127.0.0.1
+INFO 2026-03-29 13:35:42,394 middleware Request completed: GET /favicon.ico - 404
+INFO 2026-03-29 13:35:42,395 middleware GET /favicon.ico - Status: 404 - Duration: 0.043s
+WARNING 2026-03-29 13:35:42,399 log Not Found: /favicon.ico
+INFO 2026-03-29 13:35:53,728 middleware Request started: GET /api/predict/ from 127.0.0.1
+WARNING 2026-03-29 13:35:53,729 log Method Not Allowed (GET): /api/predict/
+INFO 2026-03-29 13:35:53,735 middleware Request completed: GET /api/predict/ - 405
+INFO 2026-03-29 13:35:53,736 middleware GET /api/predict/ - Status: 405 - Duration: 0.008s
+INFO 2026-03-29 13:48:39,375 middleware Request started: POST /api/predict/ from 127.0.0.1
+ERROR 2026-03-29 13:48:43,474 views Prediction error: Error 10061 connecting to localhost:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+INFO 2026-03-29 13:48:43,476 middleware Request completed: POST /api/predict/ - 500
+INFO 2026-03-29 13:48:43,477 middleware POST /api/predict/ - Status: 500 - Duration: 4.101s
+ERROR 2026-03-29 13:48:43,477 log Internal Server Error: /api/predict/
+INFO 2026-03-29 13:59:47,796 autoreload C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\carsharing_insurance\settings.py changed, reloading.
+INFO 2026-03-29 13:59:48,881 autoreload Watching for file changes with StatReloader
+INFO 2026-03-29 13:59:50,017 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 13:59:50,018 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 14:03:00,032 autoreload C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\views.py changed, reloading.
+INFO 2026-03-29 14:03:00,916 autoreload Watching for file changes with StatReloader
+INFO 2026-03-29 14:03:02,035 ml_service Модель загружена: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\best_model.pkl
+INFO 2026-03-29 14:03:02,035 ml_service Препроцессор загружен: C:\Users\karina\Desktop\carsharing_insurance\app\carsharing_insurance\insurance\models\preprocessor.pkl
+INFO 2026-03-29 22:21:35,915 middleware Request started: GET /health from 127.0.0.1
+INFO 2026-03-29 22:21:35,932 middleware Request completed: GET /health - 404
+INFO 2026-03-29 22:21:35,933 middleware GET /health - Status: 404 - Duration: 0.017s
+WARNING 2026-03-29 22:21:35,935 log Not Found: /health
+INFO 2026-03-29 22:21:43,230 middleware Request started: GET /api/health/ from 127.0.0.1
+INFO 2026-03-29 22:21:43,231 middleware Request completed: GET /api/health/ - 200
+INFO 2026-03-29 22:21:43,232 middleware GET /api/health/ - Status: 200 - Duration: 0.002s
+INFO 2026-03-29 22:21:57,471 middleware Request started: GET /api/metrics/ from 127.0.0.1
+INFO 2026-03-29 22:21:57,481 middleware Request completed: GET /api/metrics/ - 200
+INFO 2026-03-29 22:21:57,482 middleware GET /api/metrics/ - Status: 200 - Duration: 0.011s
+INFO 2026-03-29 22:23:24,394 middleware Request started: POST /api/predict/ from 127.0.0.1
+ERROR 2026-03-29 22:23:28,451 views Prediction error: Error 10061 connecting to localhost:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+INFO 2026-03-29 22:23:28,452 middleware Request completed: POST /api/predict/ - 500
+INFO 2026-03-29 22:23:28,455 middleware POST /api/predict/ - Status: 500 - Duration: 4.061s
+ERROR 2026-03-29 22:23:28,458 log Internal Server Error: /api/predict/
+INFO 2026-03-29 22:23:31,594 middleware Request started: POST /api/predict/ from 127.0.0.1
+ERROR 2026-03-29 22:23:35,677 views Prediction error: Error 10061 connecting to localhost:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+INFO 2026-03-29 22:23:35,677 middleware Request completed: POST /api/predict/ - 500
+INFO 2026-03-29 22:23:35,679 middleware POST /api/predict/ - Status: 500 - Duration: 4.085s
+ERROR 2026-03-29 22:23:35,680 log Internal Server Error: /api/predict/
+INFO 2026-03-29 22:23:36,921 middleware Request started: GET /api/metrics/ from 127.0.0.1
+INFO 2026-03-29 22:23:36,930 middleware Request completed: GET /api/metrics/ - 200
+INFO 2026-03-29 22:23:36,930 middleware GET /api/metrics/ - Status: 200 - Duration: 0.009s
+INFO 2026-03-29 23:25:26,478 middleware Request started: GET /get_stats/ from 127.0.0.1
+INFO 2026-03-29 23:25:26,499 middleware Request completed: GET /get_stats/ - 404
+INFO 2026-03-29 23:25:26,502 middleware GET /get_stats/ - Status: 404 - Duration: 0.021s
+WARNING 2026-03-29 23:25:26,503 log Not Found: /get_stats/
+INFO 2026-03-29 23:25:48,455 middleware Request started: GET /get_stats/ from 127.0.0.1
+INFO 2026-03-29 23:25:48,466 middleware Request completed: GET /get_stats/ - 404
+INFO 2026-03-29 23:25:48,466 middleware GET /get_stats/ - Status: 404 - Duration: 0.012s
+WARNING 2026-03-29 23:25:48,467 log Not Found: /get_stats/
+INFO 2026-03-29 23:25:56,610 middleware Request started: GET /api/get_stats/ from 127.0.0.1
+INFO 2026-03-29 23:25:56,618 middleware Request completed: GET /api/get_stats/ - 404
+INFO 2026-03-29 23:25:56,618 middleware GET /api/get_stats/ - Status: 404 - Duration: 0.008s
+WARNING 2026-03-29 23:25:56,619 log Not Found: /api/get_stats/
+INFO 2026-03-29 23:26:08,367 middleware Request started: GET /api/stats/ from 127.0.0.1
+INFO 2026-03-29 23:26:08,460 middleware Request completed: GET /api/stats/ - 200
+INFO 2026-03-29 23:26:08,460 middleware GET /api/stats/ - Status: 200 - Duration: 0.093s
+INFO 2026-03-30 00:53:06,043 middleware Request started: GET /api/stats/ from 127.0.0.1
+INFO 2026-03-30 00:53:06,105 middleware Request completed: GET /api/stats/ - 200
+INFO 2026-03-30 00:53:06,105 middleware GET /api/stats/ - Status: 200 - Duration: 0.063s
+INFO 2026-03-30 00:53:14,246 middleware Request started: GET /api/metrics/ from 127.0.0.1
+INFO 2026-03-30 00:53:14,265 middleware Request completed: GET /api/metrics/ - 200
+INFO 2026-03-30 00:53:14,266 middleware GET /api/metrics/ - Status: 200 - Duration: 0.021s

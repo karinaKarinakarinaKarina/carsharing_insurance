@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/c3ba3a29bdd04c8db45a775ba06fe330/artifacts
+end_time: 1774526151689
+entry_point_name: ''
+experiment_id: '942070848811124087'
+lifecycle_stage: active
+run_id: c3ba3a29bdd04c8db45a775ba06fe330
+run_name: RandomForest_Optimized_20260326_145551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774526151044
+status: 3
+tags: []
+user_id: karina

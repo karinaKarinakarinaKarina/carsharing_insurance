@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/ffd43a91502548d7951e89a9ca62241b/artifacts
+end_time: 1774777666580
+entry_point_name: ''
+experiment_id: '942070848811124087'
+lifecycle_stage: active
+run_id: ffd43a91502548d7951e89a9ca62241b
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774777662625
+status: 3
+tags: []
+user_id: karina

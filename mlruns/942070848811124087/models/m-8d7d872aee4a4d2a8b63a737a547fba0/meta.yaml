@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-8d7d872aee4a4d2a8b63a737a547fba0/artifacts
+creation_timestamp: 1774527625910
+experiment_id: '942070848811124087'
+last_updated_timestamp: 1774527628573
+model_id: m-8d7d872aee4a4d2a8b63a737a547fba0
+model_type: null
+name: CatBoost
+source_run_id: 2259ed220e0d4db1bc25faad6a91059e
+status: 2
+status_message: null

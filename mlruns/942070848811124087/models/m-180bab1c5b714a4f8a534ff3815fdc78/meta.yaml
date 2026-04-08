@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/models/m-180bab1c5b714a4f8a534ff3815fdc78/artifacts
+creation_timestamp: 1774777603693
+experiment_id: '942070848811124087'
+last_updated_timestamp: 1774777610554
+model_id: m-180bab1c5b714a4f8a534ff3815fdc78
+model_type: null
+name: LogisticRegression
+source_run_id: 2c6c76d2266f48759cda97864bf66bf8
+status: 2
+status_message: null

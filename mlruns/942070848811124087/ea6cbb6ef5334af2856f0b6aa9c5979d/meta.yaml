@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karina/Desktop/carsharing_insurance/mlruns/942070848811124087/ea6cbb6ef5334af2856f0b6aa9c5979d/artifacts
+end_time: 1774527623903
+entry_point_name: ''
+experiment_id: '942070848811124087'
+lifecycle_stage: active
+run_id: ea6cbb6ef5334af2856f0b6aa9c5979d
+run_name: XGBoost_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774527620679
+status: 3
+tags: []
+user_id: karina
